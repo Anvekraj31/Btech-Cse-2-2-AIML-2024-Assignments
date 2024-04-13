@@ -4,4 +4,6 @@
 # Assignment 5:https://github.com/Anvekraj31/Btech-Cse-2-2-AIML-2024-Assignments/blob/main/Copy_of_1078_assn_5.ipynb
 # Assignment 6:https://github.com/Anvekraj31/Btech-Cse-2-2-AIML-2024-Assignments/blob/main/2203A51078%20ass-6.ipynb
 # Assignment 7:https://github.com/Anvekraj31/Btech-Cse-2-2-AIML-2024-Assignments/blob/main/2203A51078_ASSN_7.ipynb
+# Assignment 8:https://github.com/Anvekraj31/Btech-Cse-2-2-AIML-2024-Assignments/blob/main/2203A51078_ASSN_8.ipynb
+
 
